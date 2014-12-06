@@ -1,0 +1,39 @@
+{
+  "name": "creativision",
+  "version": "0.1.0",
+  "private": true,
+  "author": "曹返",
+ "contributors": [
+    {
+      "name":"skyblue",
+      "mail":"skyblue.null@gmail.com"
+    },
+    {
+      "name":"Dhc",
+      "mail":"admin@dhchouse.com"
+    },
+    {
+      "name":"lanhao",
+      "mail":"admin@lanhao.name"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelValentine/creat"
+  },
+  "homepage": "http://creativision.cn/",
+  "keywords": [
+    "creatjs",
+    "framework",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "scripts": {
+    "start": "node ./bin/start"
+  }
+}

@@ -1,0 +1,7 @@
+//加载配置完成的主函数
+//2014/11/14
+//Miguel Valentine
+
+var creat = require('../conf/conf.js');
+
+creat.start(creat.get('port'));
