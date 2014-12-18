@@ -8,7 +8,7 @@
 
 ```bash
 wget http：//creativision.cn/node-creat.tar
-tar xvf node-creat.tar
+tar zxvf node-creat.tar.gz
 cd creat
 npm start
 ```
@@ -35,5 +35,5 @@ npm start
 
   [MIT](LICENSE)
   
-[npm-image]: http://img.shields.io/badge/guapim-v0.1.0-blue.svg
+[npm-image]: http://img.shields.io/badge/guapi-v0.1.0-blue.svg
 [npm-url]: #
