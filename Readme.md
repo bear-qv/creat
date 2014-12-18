@@ -7,7 +7,7 @@
 ### 安装及快速启动
 
 ```bash
-wget http：//creativision.cn/node-creat.tar
+wget http://creativision.cn/node-creat.tar.gz
 tar zxvf node-creat.tar.gz
 cd creat
 npm start
