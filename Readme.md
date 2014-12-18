@@ -35,5 +35,5 @@ npm start
 
   [MIT](LICENSE)
   
-[npm-image]: http://img.shields.io/badge/npm-v0.1.0-blue.svg
+[npm-image]: http://img.shields.io/badge/guapim-v0.1.0-blue.svg
 [npm-url]: #
